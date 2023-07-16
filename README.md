@@ -7,6 +7,8 @@ Project Description:
 This project focuses on predicting the prices of used cars using various machine-learning algorithms. With a dataset of 20,063 used car records and 11 features, we trained and compared linear regression, lasso regression, ridge regression, polynomial regression, random forest, and KNN models on different platforms such as a local computer, Google Colab, and AWS SageMaker. We aimed to develop a model that can accurately estimate car prices based on factors like trim, mileage, year, and color. Additionally, we explored the Random Forest Model with Principal Component Analysis (PCA) to improve prediction accuracy. By evaluating each model's performance and training times, including the Random Forest Model with PCA, we provide insights into their strengths and weaknesses, allowing users to make informed decisions when selecting the most appropriate model for their specific requirements.
 
 Results:
+
+
 <img width="368" alt="ml" src="https://github.com/drathod2/MachineLearning-and-DeepLearning-Project/assets/137833911/291fcabb-4f75-47c6-b0e3-000312a2b75b">
 
 <img width="431" alt="ml1" src="https://github.com/drathod2/MachineLearning-and-DeepLearning-Project/assets/137833911/d8e09214-81aa-4d17-bf8d-aa8e8adc6d0a">
