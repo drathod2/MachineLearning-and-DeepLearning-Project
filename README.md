@@ -8,7 +8,6 @@ This project focuses on predicting the prices of used cars using various machine
 
 Results:
 
-
 <img width="368" alt="ml" src="https://github.com/drathod2/MachineLearning-and-DeepLearning-Project/assets/137833911/291fcabb-4f75-47c6-b0e3-000312a2b75b">
 
 <img width="431" alt="ml1" src="https://github.com/drathod2/MachineLearning-and-DeepLearning-Project/assets/137833911/d8e09214-81aa-4d17-bf8d-aa8e8adc6d0a">
